@@ -1,4 +1,3 @@
 *.sqlite3
-todolist_rest_api/__pycache__
-*__init__.py
-*migrations/
+*__pycache__
+*migrations/*.pyc
